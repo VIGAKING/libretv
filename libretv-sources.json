@@ -1,0 +1,16 @@
+{
+  "name": "LibreTV 点播源（2026-10-14 实测可用）",
+  "version": 2,
+  "sources": [
+    { "name": "非凡影视", "url": "http://ffzy5.tv/api.php/provide/vod", "detail": "http://ffzy5.tv", "isAdult": false },
+    { "name": "非凡资源", "url": "https://api.ffzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "量子资源", "url": "https://cj.lziapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "光速资源", "url": "https://api.guangsuapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "百度资源", "url": "https://api.apibdzy.com/api.php/provide/vod", "isAdult": false },
+    { "name": "魔都资源", "url": "https://caiji.moduapi.cc/api.php/provide/vod", "isAdult": false },
+    { "name": "360资源", "url": "https://www.360zy.com/api.php/provide/vod", "isAdult": false },
+    { "name": "360资源备用", "url": "https://360zy.net/api.php/provide/vod", "isAdult": false },
+    { "name": "CK资源", "url": "https://www.ckzy1.com/api.php/provide/vod", "isAdult": false }
+  ]
+}
